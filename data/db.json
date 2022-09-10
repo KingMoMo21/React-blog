@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we use it\n It is a long established fact that users would be distracted.",
+      "author": "MoMo",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "Why do we use it?\n It is a long established fact that users would be distracted.",
+      "author": "KING",
+      "id": 2
+    },
+    {
+      "title": "Degun",
+      "body": "wertyuicfghjk",
+      "author": "MoMo",
+      "id": 3
+    }
+  ]
+}
